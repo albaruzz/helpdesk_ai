@@ -1,6 +1,6 @@
 # Helpdesk AI Assistant — Mini PoC (MagangHub)
 
-Demo 3-hari: auto-kategorisasi ticket + draft jawaban FAQ + masking + human-in-the-loop.
+Demo : auto-kategorisasi ticket + draft jawaban FAQ + masking + human-in-the-loop.
 
 ## Cara Run (2 menit)
 ```bash
