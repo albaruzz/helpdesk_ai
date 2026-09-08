@@ -1,0 +1,9 @@
+id,raw_text,masked_text,category
+1,Tolong reset password akun Siti NIK 32710****,Tolong reset password akun [MASKED_NAMA] NIK [MASKED_NIK],Password
+2,Printer lantai 3 error lampu merah berkedip,Printer lantai 3 error lampu merah berkedip,Hardware-Printer
+3,Minta install AutoCAD butuh approval pak Budi,Minta install AutoCAD butuh approval [MASKED_NAMA],Software
+4,Wifi ruangan meeting tidak bisa connect,Wifi ruangan meeting tidak bisa connect,Network
+5,Email tidak masuk dari kemarin sudah cek spam,Email tidak masuk dari kemarin sudah cek spam,Email
+6,Lupa password SSO NIK 32710****,Lupa password SSO NIK [MASKED_NIK],Password
+7,ERP modul finance error 403 padahal VPN aktif,ERP modul finance error 403 padahal VPN aktif,ERP
+8,Printer tidak bisa print antrean banyak,Printer tidak bisa print antrean banyak,Hardware-Printer
