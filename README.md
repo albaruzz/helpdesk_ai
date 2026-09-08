@@ -1,7 +1,5 @@
 # Helpdesk AI Assistant — Mini PoC (MagangHub)
 
-![Demo](assets/demo.png)
-
 Demo: auto-kategorisasi ticket + draft jawaban FAQ + masking + human-in-the-loop.
 
 > **Mustika & Bank Mega ready** — ticketing + RAG FAQ + secure masking + dashboard
