@@ -22,6 +22,3 @@ Tanpa OPENAI_API_KEY = pakai mock rule-based (tetap jalan). Dengan key = pakai A
 - app.py — UI + logic
 - kb/faq.md — knowledge base
 - data/tickets.csv — 30 ticket dummy mask
-
-## Untuk Interview
-Share screen Streamlit + tunjukkan log + README. Repo ini jadi bukti PoC — taruh link GitHub di CV.
