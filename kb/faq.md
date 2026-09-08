@@ -59,3 +59,6 @@ Atasan buat ticket Offboarding, IT disable akun SSO/email/VPN H+1 setelah last d
 
 ## 20. Keamanan Data - Jangan Kirim Password
 Jangan pernah kirim password plain text via ticket/chat/email. IT tidak pernah minta password. Jika diminta, lapor security. Untuk AI tools, password selalu dimask otomatis.
+
+## 21. Pengajuan Cuti
+Buka portal HR/ERP -> menu Cuti -> pilih jenis cuti (Tahunan/Sakit/Izin) -> isi tanggal & alasan -> submit -> notifikasi ke atasan untuk approval. Cek saldo cuti di dashboard HR. Jika butuh cuti mendadak, hubungi atasan + buat ticket HR-Cuti dengan NIK dan tanggal.
