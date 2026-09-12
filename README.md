@@ -1,4 +1,4 @@
-# Helpdesk AI Assistant — Mini PoC (MagangHub)
+# Helpdesk AI Assistant — Mini PoC
 
 Demo: auto-kategorisasi ticket + draft jawaban FAQ + masking + human-in-the-loop.
 
