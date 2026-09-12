@@ -2,7 +2,7 @@
 
 Demo: auto-kategorisasi ticket + draft jawaban FAQ + masking + human-in-the-loop.
 
-> **Mustika & Bank Mega ready** — ticketing + RAG FAQ + secure masking + dashboard
+> ticketing + RAG FAQ + secure masking + dashboard
 
 ## Demo Screenshot
 ![Streamlit Demo](assets/demo.png)
