@@ -12,7 +12,7 @@ FAQ_PATH = BASE / "kb" / "faq.md"
 TICKETS_PATH = BASE / "data" / "tickets.csv"
 
 # --- helpers ---
-def mask_pii(text: str) -> str:
+def mask_pii(text: str) -> str: #masking sensitive data
     # NIK 16 digit, password-like
     text = re.sub(r"\b\d{16}\b", "[MASKED_NIK]", text)
     text = re.sub(r"NIK\s*[:\-]?\s*\d+", "NIK [MASKED_NIK]", text, flags=re.I)
