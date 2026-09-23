@@ -1,5 +1,7 @@
+# Legacy pip file. Source of truth is pyproject.toml + uv.lock (uv sync).
+# Kept for compat: pip install -r requirements.txt still works.
 streamlit==1.40.0
 pandas==2.2.3
 python-dotenv==1.0.1
 openai==1.54.0
-chromadb==0.5.5
+google-genai>=1.0

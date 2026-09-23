@@ -8,11 +8,10 @@ Demo: auto-kategorisasi ticket + draft jawaban FAQ + masking + human-in-the-loop
 ![Streamlit Demo](assets/demo.png)
 *Auto-kategorisasi + Masked PII + Draft FAQ + Needs Review*
 
-## Cara Run (2 menit)
+## Cara Run (2 menit, uv)
 ```bash
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-streamlit run app.py
+uv sync
+uv run streamlit run app.py
 ```
 Buka http://localhost:8501
 
